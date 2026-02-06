@@ -2,8 +2,6 @@
 curl -H "apikey: 替换为PUBLISHABLE_KEY" \
      "https://项目ID.supabase.co/rest/v1/keep_live_ping?select=*"
 
-
-# -H means header
 curl -H "apikey: sb_publishable_SUw0yFl117ArRnW3qKOfbg_bRlTpdOc" \
      "https://egehivfmeoroomfurmda.supabase.co/rest/v1/public.keep_live_ping?select=*"
 
