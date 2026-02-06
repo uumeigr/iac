@@ -9,3 +9,6 @@ https://bun.com/docs/pm/cli/install
 这几个场景
 都可以在Cloudflare Workers来做
 
+https://bun.com/guides
+看deploy、生态与框架 section
+
