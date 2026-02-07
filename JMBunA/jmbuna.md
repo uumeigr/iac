@@ -12,3 +12,6 @@ https://bun.com/docs/pm/cli/install
 https://bun.com/guides
 看deploy、生态与框架 section
 
+https://bun.com/docs/guides/deployment/render
+添加依赖、build时，runtime
+
