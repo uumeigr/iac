@@ -17,6 +17,12 @@ updates, you can specify the patch version with a ^ prefix
 import { join } from "jsr:@std/path@1/join";
 
 
+# good  
+
+https://github.com/denolib/awesome-deno
+
+
+
 # use bun as backend API   
   but bun does not have a runtime serverless platform, replies on Cloudflare
 
